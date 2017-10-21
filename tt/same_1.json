@@ -1,0 +1,146 @@
+{
+    "id": 225,
+    "article_number": 7893,
+    "text": "Occupy Tulsa protesters: We'll stand our ground\nReported by: Adam Paluka\nEmail: apaluka@fox23.com\nUpdated: 11/01/2011 10:50 pm\n\n\nOccupy Tulsa protesters said Tuesday evening they will stand their ground near 6th Street and Main Street in downtown Tulsa. There had been rumblings the city of Tulsa would issue citations or remove the protesters for violating the city's curfew law which extends from 11:00 p.m. to 5:00 a.m..\n\n\nStephanie Lewis, an Occupy Tulsa member, told FOX23 the protesters would move to the sidewalks in a compromise with the city. She said some protesters were determined to stay on the park grounds. She said they were aware they were subject to a $55 fine or possible arrest. The protesters have been camped out since Friday, and similar protests are happening all over the country.\n\n\nTulsa Police issued this statement Tuesday evening about the possibility that protesters could be arrested, \"We have been in productive conversations with the protesters in regards to their park protest. We are determined to, number one, weigh the right to protest, number two, the rights of all citizens to lawfully use City parks and facilities, and number three, the need to uphold city laws and ordinances. We must consider the totality of all these issues, and only then will we take appropriate action when it is necessary.\"",
+    "metadata": {
+        "city": "Tulsa",
+        "article_number": "7893",
+        "filename": "7893Tulsa-Fox23_Tulsa-05.txt",
+        "date_published": "2011-11-01",
+        "state": null,
+        "version": "30",
+        "annotators": [
+            "MB"
+        ],
+        "periodical": "Fox23_Tulsa",
+        "periodical_code": "05"
+    },
+    "highlight_taskruns": [
+        {
+            "id": 225,
+            "article": 225,
+            "contributor": {
+                "id": 1,
+                "unique_label": "BB"
+            },
+            "highlights": [
+                {
+                    "id": 1086,
+                    "article_highlight": 225,
+                    "topic": 18,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            749,
+                            805,
+                            "and similar protests are happening all over the country."
+                        ]
+                    ]
+                },
+                {
+                    "id": 1085,
+                    "article_highlight": 225,
+                    "topic": 20,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            808,
+                            915,
+                            "Tulsa Police issued this statement Tuesday evening about the possibility that protesters could be arrested,"
+                        ],
+                        [
+                            916,
+                            1011,
+                            "\"We have been in productive conversations with the protesters in regards to their park protest."
+                        ]
+                    ]
+                },
+                {
+                    "id": 1084,
+                    "article_highlight": 225,
+                    "topic": 7,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            735,
+                            748,
+                            "since Friday,"
+                        ]
+                    ]
+                },
+                {
+                    "id": 1083,
+                    "article_highlight": 225,
+                    "topic": 15,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            158,
+                            253,
+                            "Tuesday evening they will stand their ground near 6th Street and Main Street in downtown Tulsa."
+                        ],
+                        [
+                            552,
+                            698,
+                            "She said some protesters were determined to stay on the park grounds. She said they were aware they were subject to a $55 fine or possible arrest."
+                        ],
+                        [
+                            1012,
+                            1338,
+                            "We are determined to, number one, weigh the right to protest, number two, the rights of all citizens to lawfully use City parks and facilities, and number three, the need to uphold city laws and ordinances. We must consider the totality of all these issues, and only then will we take appropriate action when it is necessary.\""
+                        ]
+                    ]
+                },
+                {
+                    "id": 1082,
+                    "article_highlight": 225,
+                    "topic": 1,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            129,
+                            157,
+                            "Occupy Tulsa protesters said"
+                        ],
+                        [
+                            699,
+                            734,
+                            "The protesters have been camped out"
+                        ],
+                        [
+                            203,
+                            253,
+                            "near 6th Street and Main Street in downtown Tulsa."
+                        ]
+                    ]
+                },
+                {
+                    "id": 1081,
+                    "article_highlight": 225,
+                    "topic": 14,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            279,
+                            423,
+                            "the city of Tulsa would issue citations or remove the protesters for violating the city's curfew law which extends from 11:00 p.m. to 5:00 a.m.."
+                        ]
+                    ]
+                },
+                {
+                    "id": 1080,
+                    "article_highlight": 225,
+                    "topic": 17,
+                    "case_number": 1,
+                    "offsets": [
+                        [
+                            478,
+                            551,
+                            "the protesters would move to the sidewalks in a compromise with the city."
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
