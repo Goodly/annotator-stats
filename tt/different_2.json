@@ -20,8 +20,8 @@
             "id": 225,
             "article": 225,
             "contributor": {
-                "id": 2,
-                "unique_label": "MB"
+                "id": 1,
+                "unique_label": "BB"
             },
             "highlights": [
                 {
@@ -31,7 +31,7 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            49,
+                            740,
                             805,
                             "and similar protests are happening all over the country."
                         ]
@@ -44,12 +44,12 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            08,
+                            800,
                             915,
                             "Tulsa Police issued this statement Tuesday evening about the possibility that protesters could be arrested,"
                         ],
                         [
-                            16,
+                            910,
                             1011,
                             "\"We have been in productive conversations with the protesters in regards to their park protest."
                         ]
@@ -62,7 +62,7 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            35,
+                            730,
                             748,
                             "since Friday,"
                         ]
@@ -75,17 +75,17 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            58,
+                            150,
                             253,
                             "Tuesday evening they will stand their ground near 6th Street and Main Street in downtown Tulsa."
                         ],
                         [
-                            52,
+                            550,
                             698,
                             "She said some protesters were determined to stay on the park grounds. She said they were aware they were subject to a $55 fine or possible arrest."
                         ],
                         [
-                            12,
+                            1010,
                             1338,
                             "We are determined to, number one, weigh the right to protest, number two, the rights of all citizens to lawfully use City parks and facilities, and number three, the need to uphold city laws and ordinances. We must consider the totality of all these issues, and only then will we take appropriate action when it is necessary.\""
                         ]
@@ -98,17 +98,17 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            29,
+                            120,
                             157,
                             "Occupy Tulsa protesters said"
                         ],
                         [
-                            99,
+                            690,
                             734,
                             "The protesters have been camped out"
                         ],
                         [
-                            03,
+                            200,
                             253,
                             "near 6th Street and Main Street in downtown Tulsa."
                         ]
@@ -121,7 +121,7 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            79,
+                            270,
                             423,
                             "the city of Tulsa would issue citations or remove the protesters for violating the city's curfew law which extends from 11:00 p.m. to 5:00 a.m.."
                         ]
@@ -134,7 +134,7 @@
                     "case_number": 1,
                     "offsets": [
                         [
-                            78,
+                            470,
                             551,
                             "the protesters would move to the sidewalks in a compromise with the city."
                         ]
